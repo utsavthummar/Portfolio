@@ -3,7 +3,7 @@ import React from 'react'
 import '../components/Header.css'
 import image1 from '../images/WhatsApp Image 2024-02-05 at 12.35.13 PM.jpeg'
 
-// images
+// images123
 
 import bgimages1 from '../images/black-rough-grainy-stone-texture-background_180922-738.jpg'
 
