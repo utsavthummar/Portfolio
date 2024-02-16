@@ -1,0 +1,50 @@
+.button2 {
+    position: relative;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-decoration: none;
+    font-size: 30px;
+    overflow: hidden;
+    transition: 0.2s;
+}
+
+.button2:hover {
+    color: #fff;
+    background-color: green;
+    box-shadow: 0 0 10px green, 0 0 40px green, 0 0 80px green;
+}
+
+.button {
+    position: relative;
+    display: inline-block;
+    padding: 15px 30px;
+    color: #2196f3;
+    background-color: black;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-decoration: none;
+    font-size: 35px;
+    overflow: hidden;
+    transition: 0.2s;
+}
+
+.button1:hover {
+    color: #fff;
+    background-color: #2196f3;
+    box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+}
+
+.about span {
+    position: relative;
+    font-size: 20px;
+    letter-spacing: 5px;
+    color: #2196f3;
+    text-transform: uppercase;
+    width: 100%;
+    text-align: center;
+    -webkit-box-reflect: below 1px linear-gradient(transparent, #0008);
+    line-height: 0.70em;
+    outline: none;
+    animation: alternate 5s linear infinite;
+}

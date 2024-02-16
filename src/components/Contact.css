@@ -1,0 +1,75 @@
+span {
+    color: #2196f3;
+    font-size: 40px;
+}
+
+.label {
+    position: relative;
+}
+
+.input {
+    height: 50px;
+    width: 100%;
+    color: #fff;
+    background-color: #000;
+    border: none;
+    padding: 10px;
+}
+
+.input0 {
+    margin-top: 10px;
+    height: 50px;
+    width: 100%;
+    color: #fff;
+    background-color: #000;
+    border: none;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.input1 {
+    height: 50px;
+    width: 100%;
+    color: #fff;
+    background-color: #000;
+    border: none;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.input2 {
+    margin-top: 10px;
+    height: 50px;
+    width: 100%;
+    color: #fff;
+    background-color: #000;
+    border: none;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.input:hover {
+    box-shadow: 0 0 10px orange, 0 0 40px orange, 0 0 80px orange;
+}
+
+.input0:hover {
+    box-shadow: 0 0 10px orange, 0 0 40px orange, 0 0 80px orange;
+}
+
+.input1:hover {
+    box-shadow: 0 0 10px orange, 0 0 40px orange, 0 0 80px orange;
+}
+
+.input2:hover {
+    box-shadow: 0 0 10px orange, 0 0 40px orange, 0 0 80px orange;
+}
+
+.button3 {
+    margin-top: 50px;
+}
+
+.button3:hover {
+    color: #fff;
+    background-color: green;
+    box-shadow: 0 0 10px green, 0 0 40px green, 0 0 80px green;
+}
