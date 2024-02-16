@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "//utsavthummar.github.io/Portfolio/static/css/main.951740e1.css",
-    "main.js": "//utsavthummar.github.io/Portfolio/static/js/main.f3e7a0fb.js",
-    "static/js/592.6d7de513.chunk.js": "//utsavthummar.github.io/Portfolio/static/js/592.6d7de513.chunk.js",
-    "static/media/Professional Modern CV Resume.png": "//utsavthummar.github.io/Portfolio/static/media/Professional Modern CV Resume.c2cdfb6bc63b16e1c176.png",
-    "static/media/WhatsApp Image 2024-02-05 at 12.35.13 PM.jpeg": "//utsavthummar.github.io/Portfolio/static/media/WhatsApp Image 2024-02-05 at 12.35.13 PM.c72e1c2e7b319430960b.jpeg",
-    "index.html": "//utsavthummar.github.io/Portfolio/index.html",
-    "main.951740e1.css.map": "//utsavthummar.github.io/Portfolio/static/css/main.951740e1.css.map",
-    "main.f3e7a0fb.js.map": "//utsavthummar.github.io/Portfolio/static/js/main.f3e7a0fb.js.map",
-    "592.6d7de513.chunk.js.map": "//utsavthummar.github.io/Portfolio/static/js/592.6d7de513.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.951740e1.css",
+    "main.js": "/Portfolio/static/js/main.456eb458.js",
+    "static/js/592.6d7de513.chunk.js": "/Portfolio/static/js/592.6d7de513.chunk.js",
+    "static/media/Professional Modern CV Resume.png": "/Portfolio/static/media/Professional Modern CV Resume.c2cdfb6bc63b16e1c176.png",
+    "static/media/WhatsApp Image 2024-02-05 at 12.35.13 PM.jpeg": "/Portfolio/static/media/WhatsApp Image 2024-02-05 at 12.35.13 PM.c72e1c2e7b319430960b.jpeg",
+    "index.html": "/Portfolio/index.html",
+    "main.951740e1.css.map": "/Portfolio/static/css/main.951740e1.css.map",
+    "main.456eb458.js.map": "/Portfolio/static/js/main.456eb458.js.map",
+    "592.6d7de513.chunk.js.map": "/Portfolio/static/js/592.6d7de513.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.951740e1.css",
-    "static/js/main.f3e7a0fb.js"
+    "static/js/main.456eb458.js"
   ]
 }
