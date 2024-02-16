@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.951740e1.css",
+    "main.js": "/static/js/main.f20cc527.js",
+    "static/js/592.6d7de513.chunk.js": "/static/js/592.6d7de513.chunk.js",
+    "static/media/Professional Modern CV Resume.png": "/static/media/Professional Modern CV Resume.c2cdfb6bc63b16e1c176.png",
+    "static/media/WhatsApp Image 2024-02-05 at 12.35.13 PM.jpeg": "/static/media/WhatsApp Image 2024-02-05 at 12.35.13 PM.c72e1c2e7b319430960b.jpeg",
+    "index.html": "/index.html",
+    "main.951740e1.css.map": "/static/css/main.951740e1.css.map",
+    "main.f20cc527.js.map": "/static/js/main.f20cc527.js.map",
+    "592.6d7de513.chunk.js.map": "/static/js/592.6d7de513.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.951740e1.css",
+    "static/js/main.f20cc527.js"
+  ]
+}
